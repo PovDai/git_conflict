@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev":"dead-server --host=lohalhost --port5532",
+    "dev":"dead-server --host=localhost --port5532",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
